@@ -8,8 +8,8 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot!";
 		System.out.println("Something");
+		return "Greetings from Spring Boot!";
 	}
 
 }
