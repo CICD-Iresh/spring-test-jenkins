@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<sonar.host.url>http://f3f5cdb8.ngrok.io</sonar.host.url>
+		<sonar.host.url>http://ce27f6db.ngrok.io</sonar.host.url>
 		<sonar.projectKey>spring-test-jenkins</sonar.projectKey>
 		<sonar.login>${env.SONARLOGIN}</sonar.login>
 		<java.version>1.8</java.version>
